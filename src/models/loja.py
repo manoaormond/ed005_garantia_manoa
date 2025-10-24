@@ -1,5 +1,4 @@
 class Loja:
-    """Representa uma loja que vende equipamentos."""
     def __init__(self, id_loja, nome, endereco):
         self.id_loja = id_loja
         self.nome = nome
